@@ -15,5 +15,4 @@ In this file, I will be explaining the prerequisites and methodology of this pro
 
 ### Running this project:
 1. The files are mainly uploaded in the master branch of the repository. One can download them from that branch.
-2. To run this project, one need to keep the database file and the .py file in the same folder and then just hit execute on the software being used to run the program. 
-The output can be seen on the console.
+2. After downloading, run the main.py file with a suitable python interpreter. movieTable.db can be viewed from SQLite Studio. Any changes done and saved through main.py will be reflected on SQLite Studio. 
